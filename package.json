@@ -15,6 +15,7 @@
     "type": "git",
     "url": "https://github.com/pablojim/highcharts-ng.git"
   },
+  "main": "dist/highcharts-ng",
   "licenses": [
     {
       "type": "MIT"
